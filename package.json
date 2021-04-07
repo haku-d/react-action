@@ -4,7 +4,10 @@
   "main": "./lib/index.js",
   "unpkg": "dist/react-action.js",
   "module": "es/index.js",
-  "repository": "https://github.com/dasani08/react-action.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dasani08/react-action.git"
+  },
   "author": "Thanh Dang <thanh@clgt.vn>",
   "license": "MIT",
   "scripts": {
