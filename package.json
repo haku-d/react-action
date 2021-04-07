@@ -1,5 +1,5 @@
 {
-  "name": "react-action",
+  "name": "@dasani08/react-action",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "unpkg": "dist/react-action.js",
